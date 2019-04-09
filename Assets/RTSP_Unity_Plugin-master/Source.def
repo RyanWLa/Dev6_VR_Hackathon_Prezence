@@ -1,0 +1,10 @@
+LIBRARY
+
+EXPORTS
+   SetTimeFromUnity
+   UnityPluginLoad
+   UnityPluginUnload
+   GetRenderEventFunc
+
+   SetTextureAsRTSPSink
+
